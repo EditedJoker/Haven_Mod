@@ -65,7 +65,7 @@ public class Haven
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event)
         {
-
+// This is a test
         }
     }
 }
